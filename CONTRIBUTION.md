@@ -4,3 +4,4 @@
 | extearcloud    | https://github.com/extearcloud |
 | Mohd Adnan    | https://github.com/mohdadnan786 |
 | Shubham Jain    | https://github.com/jainshubham766 |
+| Ijaz Ali | https://github.com/ijaz-ali-dev |
